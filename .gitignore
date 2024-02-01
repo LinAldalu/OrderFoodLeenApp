@@ -1,0 +1,13 @@
+# Windows system directories
+AppData/
+Documents/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Android emulator directories
+.android/
